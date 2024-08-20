@@ -6,7 +6,7 @@ Overview
 This project involves analyzing weather data using SQL and Python. The data is stored in a CSV file, which is then imported into a MySQL database for analysis. The project includes answering specific questions about the weather data by writing and executing SQL queries.
 Project Structure
 
-    weather_data.csv: The CSV file containing the weather data.
+    WeatherData.csv: The CSV file containing the weather data.
     SQL Queries: A set of SQL queries used to analyze the weather data.
     Python Script: A Python script that performs data analysis on the CSV file using Pandas before moving the data into the database.
 
